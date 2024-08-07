@@ -1,0 +1,15 @@
+C:\Code\App\Caro\bin\Debug\net8.0\Caro.exe
+C:\Code\App\Caro\bin\Debug\net8.0\Caro.deps.json
+C:\Code\App\Caro\bin\Debug\net8.0\Caro.runtimeconfig.json
+C:\Code\App\Caro\bin\Debug\net8.0\Caro.dll
+C:\Code\App\Caro\bin\Debug\net8.0\Caro.pdb
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.AssemblyInfoInputs.cache
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.AssemblyInfo.cs
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.csproj.CoreCompileInputs.cache
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.sourcelink.json
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.dll
+C:\Code\App\Caro\obj\Debug\net8.0\refint\Caro.dll
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.pdb
+C:\Code\App\Caro\obj\Debug\net8.0\Caro.genruntimeconfig.cache
+C:\Code\App\Caro\obj\Debug\net8.0\ref\Caro.dll
